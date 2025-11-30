@@ -1,0 +1,11 @@
+path: PCB_dataset  
+train: train/images
+val: valid/images
+
+names:
+  0: capacitor
+  1: resistor
+  2: ic
+  3: diode
+  4: connector
+  5: transistor
